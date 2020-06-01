@@ -1,4 +1,9 @@
 # Eye Blinding
+[//]: # (Image Reference)
+
+[img]: ./assets/blink.jpg "SLAM"
+
+![SLAM][img]
 
 First you need download shape_predictor_68_face_landmarks.dat 
 
