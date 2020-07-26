@@ -19,23 +19,22 @@ cd Eye Blinking
 
 jupyter notebook blinkeye.py
 
-## Social
+## Social 
 
-Facebook Devc Group
+### Facebook Devc Group
 
 https://www.facebook.com/groups/DevCIstanbul/
 
-İnstagram Page
+### İnstagram 
 
 https://www.instagram.com/fbdevc_istanbul/
 
-Meetup
+### Meetup
 
 https://www.meetup.com/tr-TR/Facebook-Developer-Circle-Istanbul/
 
-Eventbrite
+### Eventbrite
 
 https://www.eventbrite.com/o/facebook-developer-circle-istanbul-19803342781
-
 
 
